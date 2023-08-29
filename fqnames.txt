@@ -1,0 +1,4 @@
+android.hardware.bluetooth.audio.IBluetoothAudioProviderFactory/default
+android.hardware.drm.IDrmFactory/clearkey
+android.hardware.power.IPower/default
+android.hardware.vibrator.IVibrator/default
