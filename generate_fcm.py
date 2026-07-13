@@ -1,5 +1,5 @@
 # Author: Sebastiano Barezzi <barezzisebastiano@gmail.com>
-# Version: 1.2
+# Version: 1.2.3.10
 
 class Version:
     def __init__(self, version: str):
